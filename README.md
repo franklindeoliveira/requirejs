@@ -1,1 +1,12 @@
-Exemplo de javascript modular onde é possível definir as dependências locais e globais da aplicação.
+# Howtos
+1. Primeiro howto
+
+  Descrição do primeito howto.
+
+2. Segundo howto
+
+  Descrição do segundo howto.
+
+3. Terceiro howto
+
+  Descrição do terceiro howto.
